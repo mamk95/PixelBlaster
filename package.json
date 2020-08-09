@@ -10,7 +10,8 @@
     "lint": "eslint --ext .js,.ts,.vue --ignore-path .gitignore .",
     "lintfix": "eslint --ext .js,.ts,.vue --ignore-path .gitignore --fix .",
     "lint:style": "stylelint **/*.{vue,css} --max-warnings 0 --ignore-path .gitignore",
-    "lintfix:style": "stylelint **/*.{vue,css} --max-warnings 0 --ignore-path .gitignore --fix"
+    "lintfix:style": "stylelint **/*.{vue,css} --max-warnings 0 --ignore-path .gitignore --fix",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
     "@nuxt/typescript-runtime": "^1.0.0",
@@ -34,6 +35,7 @@
     "eslint-plugin-vue": "^6.2.2",
     "node-sass": "^4.14.1",
     "prettier": "^2.0.5",
+    "push-dir": "^0.4.1",
     "sass-loader": "^9.0.3",
     "stylelint": "^13.6.1",
     "stylelint-config-recommended-scss": "^4.2.0",

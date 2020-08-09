@@ -80,4 +80,7 @@ export default {
       background_color: "#fff",
     },
   },
+  router: {
+    base: "/PixelBlaster/",
+  },
 };

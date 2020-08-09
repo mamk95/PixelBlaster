@@ -26,4 +26,8 @@ $ npm run generate
 $ npm install -g lighthouse
 $ npx lighthouse --view https://pixel-blaster-url/
 
+# Deploy to GitHub Pages (gh-pages branch)
+$ npm run generate
+$ npm run deploy
+
 ```
