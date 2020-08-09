@@ -8,7 +8,7 @@ Can be used directly from your browser without adding yet another app to your ph
 
 Written as a [Progressive Web App](https://en.wikipedia.org/wiki/Progressive_web_application), allowing you to install it as an app on your phone directly from your browser. Note that all functionality is available and works without installing it as an app.
 
-Technologies: [Vue.js](https://vuejs.org/), [Nuxt.js](https://nuxtjs.org/).
+Technologies: [Vue.js](https://vuejs.org/), [Nuxt.js](https://nuxtjs.org/), [Typescript](https://www.typescriptlang.org/).
 
 No ads, no tracking, fully free and open source.
 
