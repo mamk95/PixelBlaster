@@ -2,6 +2,8 @@
 
 Flashes different colors to help you locate dead pixels, and possibly revive them.
 
+Website: [https://mamk95.github.io/PixelBlaster/](https://mamk95.github.io/PixelBlaster/)
+
 Can be used directly from your browser without adding yet another app to your phone. Works on any device, no matter if it's a computer, tablet, or phone.
 
 Written as a [Progressive Web App](https://en.wikipedia.org/wiki/Progressive_web_application), allowing you to install it as an app on your phone directly from your browser. Note that all functionality is available and works without installing it as an app.
